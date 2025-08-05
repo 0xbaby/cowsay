@@ -1,2 +1,2 @@
 const cowsay = require("cowsay");
-console.log(cowsay.say({ text: "Moodle!" }));
+console.log(cowsay.say({ text: "Hello pretty world!" }));
